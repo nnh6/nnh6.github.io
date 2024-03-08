@@ -11,3 +11,4 @@ Nara Hernandez's Personal Portfolio.
 - [ ] Projects and Experiences Page +Skills  Github + programming languages again
 - [ ] Contact me page: LinkedIn, Email, Cell Phone,
 - [ ] Volunteering, Hobbies & Extra interests page: Languages, film making video editing, What's Nara been up to lately?
+- [ ] Make it dynamic sizing or atleast mobile phone friendly.
